@@ -1,0 +1,6 @@
+pytest>=8
+pytest-html>=4
+pytest-xdist>=3
+requests>=2.32
+jsonschema>=4
+psycopg[binary]>=3.2
