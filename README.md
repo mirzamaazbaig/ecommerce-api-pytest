@@ -1,4 +1,4 @@
-# Ecommerce API tests (Python, pytest)
+# E-Commerce API Tests: Python and pytest
 
 A pytest framework for the REST API of a React, Express and PostgreSQL shop ([application under test](https://github.com/mirzamaazbaig/Ecom)). 82 test cases for authentication, products, access control, orders, wishlist and reviews. They run in GitHub Actions against a PostgreSQL service container.
 
