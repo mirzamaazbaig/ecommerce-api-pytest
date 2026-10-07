@@ -1,5 +1,7 @@
 # E-Commerce API Tests: Python and pytest
 
+[![API tests](https://github.com/mirzamaazbaig/ecommerce-api-pytest/actions/workflows/api-tests.yml/badge.svg)](https://github.com/mirzamaazbaig/ecommerce-api-pytest/actions/workflows/api-tests.yml)
+
 A pytest framework for the REST API of a React, Express and PostgreSQL shop ([application under test](https://github.com/mirzamaazbaig/Ecom)). 82 test cases for authentication, products, access control, orders, wishlist and reviews. They run in GitHub Actions against a PostgreSQL service container.
 
 This is the Python counterpart to the Playwright API tests in the application repository; both exercise the same endpoints.
